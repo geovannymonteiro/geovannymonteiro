@@ -2,7 +2,7 @@
 
 
 
-- 🔭  Full-stack...
+- 🔭  Front-end...
 - 🌱 Estudando JavaScript 
 
 <div style="display: inline_block"><br>
